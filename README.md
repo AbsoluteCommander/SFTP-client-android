@@ -1,16 +1,8 @@
-# Filefire
+# SFTP-client-android
 
-An Android implementation of
+This repo serves as a SFTP client implementation for AbsoluteCommander/AbsoluteCommander-android.
 
-  **● Jsch SFTP Client**
-  
-  **● Mina Sshd Server**
-  
-  **● Wake-on-LAN**
-	
+Fork from Madaditya/filefire.
+Original license does not exists, so licensing it to GNU GPL V3.
 
-Unique about this is you could use this application to browse/access the files on any REMOTE device(Windows/Linux) whether another android or a desktop hosting a sftp server.
-
-Uses X11 port fowarding to enable over the internet file access.
-
-![FileFire](/screens/filefire.jpg "App Screenshots")
+This readme will be changed soon for more details.
